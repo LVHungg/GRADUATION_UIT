@@ -5,4 +5,4 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Tiêu đề
-st.title("Data Quality Dashboard")
+st.title("Education Data Quality Dashboard")
